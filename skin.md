@@ -1,5 +1,8 @@
 # Arue's skins
 
+# [- Arue - tsubomi 1.2](https://mega.nz/file/bSBRkIZS#RiKK_O5V8LdN3VkUQxT_YqSab2yWRrbPifF88c8Cv2o) 
+![](https://osu.ppy.sh/ss/16862373/aa98)
+
 # [- Arue - tsubomi 1.1](https://mega.nz/file/3KBXxAjQ#zR0VqBJQ8nUQNplLah9djdqC_wxQ8L2oZp0ntc7bQrU) 
 ![](https://osu.ppy.sh/ss/16844323/9fee)
 
