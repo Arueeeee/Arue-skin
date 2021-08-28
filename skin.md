@@ -1,5 +1,9 @@
 # Arue's skins
 
+# [« $pan » - kz - Arue Edit](https://mega.nz/file/6TIGSTgJ#WhDX0qJigT8Qs-5Wbj_Bwil2Ipmj7_ziS3Sml5ndPAo) 
+![](https://osu.ppy.sh/ss/16997739/a4cd)
+
+
 # [- Arue - tsubomi 1.4](https://mega.nz/file/KfoSiT5b#Q1smpo_obid6rSsOsOTjjCi2ozHxTwPmhUQbNe1hEaI) 
 ![](https://osu.ppy.sh/ss/16937996/0475)
 
